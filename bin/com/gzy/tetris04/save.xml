@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<person>
+		<name>Jack</name>
+		<score>13000</score>
+	</person>
+	<person>
+		<name>Tom</name>
+		<score/>
+	</person>
+</game>

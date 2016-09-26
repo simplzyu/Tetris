@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game> 
+  <player> 
+    <name>郭振宇</name>  
+    <topScore>13000</topScore>  
+    <score>100</score>  
+	<movX>65</movX>
+	<movY>155</movY>
+    <playPanel>23 17 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</playPanel>  
+    <matrix>4 4 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0</matrix>  
+	<nextMatrix>4 4 0 1 0 0 0 1 0 0 0 1 1 0 0 0 0 0</nextMatrix>
+  </player>  
+  <player> 
+    <name>Jack</name>  
+    <topScore>00</topScore>  
+    <score/>  
+	<movX></movX>
+	<movY></movY>
+    <playPanel/>  
+    <matrix/>  
+    <nextMatrix/> 
+  </player>  
+  <player> 
+    <name>Tom</name>  
+    <topScore>0</topScore>  
+    <score/>  
+	<movX></movX>
+	<movY></movY>
+    <playPanel/>  
+    <matrix/>  
+    <nextMatrix/> 
+  </player>  
+  <player> 
+    <name>Peter</name>  
+    <topScore>1000</topScore>  
+    <score>200</score>  
+	<movX></movX>
+	<movY></movY>
+    <playPanel>20 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</playPanel>  
+    <matrix>4 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</matrix>  
+    <nextMatrix>4 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</nextMatrix> 
+  </player> 
+</game>
