@@ -1,1 +1,2 @@
-# How to write a tetris game
+#使用java 实现俄罗斯方块游戏
+#现在上传的是“单机”版,“联网”版已经完成，代码后续更新（服务器使用tomcat）
